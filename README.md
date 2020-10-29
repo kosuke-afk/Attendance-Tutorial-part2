@@ -4,11 +4,7 @@
 
 ## 開発環境
 
-kaifsk
-
 * AWS Cloud9
 * Ruby
 * Rails
-* Git
-* kl
-*jdkdkdlld
+* Git(HTTPSからSSH通信へ変更)
